@@ -1,0 +1,9 @@
+# 1. 크롤링 : 다 가져오는거
+# 2. 스크래핑 : 특정 조건의 값만 가져오는거
+#
+# 3. 웹
+#  1) html(hyper text markup language) : 뼈대
+#  2) css : 인테리어
+#  3) js : 작동
+
+#w3school.com에서 추가적인 공부 가능
